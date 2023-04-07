@@ -1,8 +1,7 @@
 # Studying files of Machine Learning and Data Analyzing 
 
 
-list
-1. the book : hon gong ma
-2. the book : hands on, first try
-3. kaggle study
-4. the book : hands on, second try
+List
+1. the book : 혼자 공부하는 머신러닝
+2. the book : Hands-On Machine Learning
+3. Try to study KAGGLE
