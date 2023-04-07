@@ -12,3 +12,13 @@ FOLDER
 3. HANDS_ON : First try to study the book HANDS_ON MACHINE LEARNING
 4. NEW_HANDS_ON : Review HANDS_ON MACHINE LEARNING
 
+CONTENT
+1. OverView
+2. Making a Project
+3. Sorting
+4. Discipline Model
+5. Support Vector Machine
+6. Tree
+7. Ensamble
+8. Dimension
+9. Unsupervised Learning
